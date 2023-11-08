@@ -16,8 +16,6 @@ Built a Spring Boot Login and Registration example (Rest API) that supports JWT 
 ![spring-boot-login-example-architecture](spring-boot-login-example-architecture.png)
 
 
-
-```
 ## Run Spring Boot application
 ```
 mvn spring-boot:run
